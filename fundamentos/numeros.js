@@ -16,6 +16,7 @@ console.log(media.toString())  // convertendo para número string
 console.log(media.toString(2)) // convertendo para binário 
 console.log(typeof media)      // tipo de variável 
 console.log(typeof Number)     // Number é uma função 
+console.log(total)
 
 /*
 o tipo de dado tem funções que podem ser envocadas a partir o operador ponto(.)
