@@ -15,3 +15,6 @@ console.log(soma(2, 3))
 
 const subtracao = (a, b) => a-b //função de uma única linha 
 console.log(subtracao(5, 3))
+
+const imprimir2 = a => console.log(a)
+imprimir2('hoje vai ter uma festa bolo e guarana muitos doces pra voce')
