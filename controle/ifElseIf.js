@@ -12,7 +12,7 @@ const imprimirResultado = function(nota){
         console.log('Recuperação!')
     }else if(nota.entra(0, 3.99)){
         console.log('Aluno Reprovado!')
-    }else{
+    }else{   //último else é opcional 
         console.log('Nota Invalida')
     }
     console.log('Fim!')
