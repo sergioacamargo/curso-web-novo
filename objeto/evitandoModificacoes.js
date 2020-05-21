@@ -17,4 +17,4 @@ pessoa.sobrenome = 'Silva'
 delete pessoa.nome
 pessoa.idedade = 29
 console.log(pessoa)
-
+//
